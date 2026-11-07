@@ -1,0 +1,8 @@
+{
+  "appId": "com.sas.motorcustomciledug",
+  "appName": "SAS Motor Custom Ciledug",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
